@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dizilerJava {
+public class javaExercise {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int [] myList = {13, 21, 18, 20};System.out.println("My lucky numbers  ");
